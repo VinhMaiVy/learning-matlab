@@ -1,0 +1,1 @@
+fare = taxi_fare(3.5,2.25)

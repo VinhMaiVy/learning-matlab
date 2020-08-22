@@ -1,0 +1,1 @@
+k = next_prime(2)
